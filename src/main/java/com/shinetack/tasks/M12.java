@@ -23,8 +23,5 @@ public class M12 {
 
         return average / array.length;
     }
-
-    public static void main(String[] args) {
-        System.out.println(calculatePairedElementsOfArray(new int[] {1,2,3,4,5,6,7,8,9,0,10}));
-    }
+    
 }
