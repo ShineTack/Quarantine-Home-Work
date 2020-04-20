@@ -1,5 +1,10 @@
 package com.shinetack.tasks;
 
+/*
+8. В заданiй матрицi E(8,2) знайти добуток вiд'∙мних елементiв. 
+Вивести вихiдну матрицю та добуток вiд'∙мних елементiв.
+*/
+
 import com.shinetack.exceptions.InappropriateSizeOfMatrixException;
 import com.shinetack.tasks.services.ServiceForM21;
 
